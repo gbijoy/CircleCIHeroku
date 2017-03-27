@@ -1,0 +1,28 @@
+{
+  "name": "circleciheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbijoy/CircleCIHeroku.git"
+  },
+  "author": "Bijoy G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbijoy/CircleCIHeroku/issues"
+  },   
+  "homepage": "https://github.com/gbijoy/CircleCIHeroku#readme",
+   "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}
